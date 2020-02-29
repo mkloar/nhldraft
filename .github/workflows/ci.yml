@@ -34,6 +34,8 @@ jobs:
       run: |
         npm run predeploy --if-present
       
-    #- name: github pages 
-    #  run: |
-    #    npm run deploy
+    - name: github pages 
+      run: |
+        git config user.email "miha.kloar@gmail.com"
+        git config user.name "mkloar"
+        npm run deploy
