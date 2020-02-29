@@ -34,6 +34,6 @@ jobs:
       run: |
         npm run predeploy --if-present
       
-    - name: github pages 
-      run: |
-        npm run deploy
+    #- name: github pages 
+    #  run: |
+    #    npm run deploy
