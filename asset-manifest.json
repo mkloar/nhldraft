@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.419ae288.css",
-  "main.css.map": "static/css/main.419ae288.css.map",
-  "main.js": "static/js/main.3a7b14d5.js",
-  "main.js.map": "static/js/main.3a7b14d5.js.map"
+  "files": {
+    "main.css": "/nhldraft/static/css/main.5aaef00b.css",
+    "main.js": "/nhldraft/static/js/main.0aa4ca96.js",
+    "index.html": "/nhldraft/index.html",
+    "main.5aaef00b.css.map": "/nhldraft/static/css/main.5aaef00b.css.map",
+    "main.0aa4ca96.js.map": "/nhldraft/static/js/main.0aa4ca96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aaef00b.css",
+    "static/js/main.0aa4ca96.js"
+  ]
 }
